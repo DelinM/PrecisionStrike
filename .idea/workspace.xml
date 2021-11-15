@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59394e18-4075-4a25-add0-c71558792a1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PStrike_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pong.kv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrecisionStrike.ahk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrecisionStrike.ahk.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrecisionStrike.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PStrike_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PStrike_main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
