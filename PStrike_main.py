@@ -1,36 +1,23 @@
-from kivy.app import App
-from kivy.uix.widget import Widget
-from kivy.properties import NumericProperty, ReferenceListProperty, ObjectProperty
-from kivy.vector import Vector
-from kivy.clock import Clock
-from random import randint
-
-class PongGame(Widget):
-    ball = ObjectProperty(None)
-
-    def update(self, dt):
-        self.ball.move()
-
-        if (self)
+from PyQt5 import QtWidgets
+from PyQt5.QtWidgets import QApplication, QmainWindow
+import sys
+import pandas
 
 
-class PongBall(Widget):
-    velocity_x = NumericProperty(0)
-    velocity_y = NumericProperty(0)
+def window():
+    app = QApplication(sys.argv)
+    win = QmainWindow()
+    win.setGeometry(200, 200, 300, 300)
+    win.setWindowsTitle("title")
 
-    velocity = ReferenceListProperty(velocity_x, velocity_y)
+    label = QtWidgests.QLabels(win)
+    label.setText('myst first label')
+    label.move(50, 50)
 
-    def move(self):
-        self.pos = Vector(*self.velocity) + self.pos
+    # show window
+    win.show()
 
+    # window will exit when click on exit button
+    sys.exit(qpp.exec_())
 
-class PongApp(App):
-
-    def build(self):
-        game = PongGame()
-        Clock.schedule_interval(game.update, 1.0/60.0)
-        return game
-
-
-if __name__ == '__main__':
-    PongApp().run()
+window()
