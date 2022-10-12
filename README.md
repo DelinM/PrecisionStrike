@@ -16,7 +16,7 @@ It was personal, and I will get personal.
 
 3 years ago in 2019, I was assigned to update over 5,000 digital forms for a inventory collection exercise. The task involved clicking 6 buttons (using some logic) and writing a sentence for each form. At the time, I did not have any idea on how to change data in backend. The only method I had was to actually click and write sentence in each form. I could only do 500 in a day, 10 days to complete this boring task. It sounded pathetic.
 
-A friend (C# God) introduced me to AutoHotKey, and I quickly deployed an AutoHotKey script to do the work for me. This was the start of me doing programming for work. After 3 days, I developed some python scripts to do more complex things, and writing small scripts became a part of my daily work.  After 3 years, I am pursing a master’s degree in computer engineering.
+A __[friend](https://github.com/chaojian-zhang)__ (C# God) introduced me to AutoHotKey, and I quickly deployed an AutoHotKey script to do the work for me. This was the start of me doing programming for work. After 3 days, I developed some python scripts to do more complex things, and writing small scripts became a part of my daily work.  After 3 years, I am pursing a master’s degree in computer engineering.
 
 I don't really use AutoHotKey anymore, it sucks. AutoHotKey was not meant for GUI design, there are plenty of good tools out there, but I feel that I must develop something so that it can benefit other people. 
 
