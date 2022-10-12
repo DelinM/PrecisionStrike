@@ -119,16 +119,18 @@ set_option_func:
 
 opa1:
 opb1:
+ExitApp
 return
-
 
 opb2:
    msgbox , 262144 , Timer, Pump Calc Completed !!
+ExitApp
 opa2:
 return
 
 opb3:
    run, rundll32.exe powrprof.dll`,SetSuspendState Sleep
+ExitApp
 opa3:
 return
 
