@@ -22,7 +22,7 @@ I don't really use AutoHotKey anymore, it sucks. AutoHotKey was not meant for GU
 
 AND OF COURSE, without a strong AutoHotKey community I would not be able to complete PrecisionStrike. This is ME giving back to the open source community (:.
 
-PS, PrecisionStrike has a bug, but you will only notice it when you pay attention. (UPDATEEEEEE: THE BUG IS FIXED.)
+(UPDATEEEEEE: THE BUG IS NOW FIXED.) PS, PrecisionStrike has a bug, but you will only notice it when you pay attention.
 
 Life is short, I have so many things to master and pursue. **I will no longer be updating PrecisionStrike.**
 
